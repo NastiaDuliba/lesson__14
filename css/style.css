@@ -59,6 +59,9 @@ body {
   flex-wrap: wrap;
   gap: 20px;
 }
+.main {
+  flex: 1 1 auto;
+}
 .page__block {
   margin: 0 auto;
   max-width: 600px;
