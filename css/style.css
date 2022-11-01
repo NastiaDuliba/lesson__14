@@ -17,7 +17,9 @@ body {
   max-width: 1030px;
   margin: 30px auto;
 }
-
+.main {
+  flex: 1 1 auto;
+}
 .header__block {
   display: flex;
   justify-content: space-between;
@@ -58,9 +60,6 @@ body {
   flex-direction: column;
   flex-wrap: wrap;
   gap: 20px;
-}
-.main {
-  flex: 1 1 auto;
 }
 .page__block {
   margin: 0 auto;
