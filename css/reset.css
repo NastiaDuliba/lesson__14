@@ -44,3 +44,7 @@ button {
 body {
   line-height: 1;
 }
+html,
+body {
+  height: 100%;
+}
